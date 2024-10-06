@@ -50,7 +50,9 @@ You can customize the pricing table by editing the HTML and CSS:
 The project includes a basic media query that allows the pricing plans to wrap on smaller screens:
 ```css
 @media (max-width: 1250px) {
-  .pricing-container {
-    flex-wrap: wrap; /* Allows pricing plans to stack on smaller screens */
-  }
+    .pricing-container {
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
 }
