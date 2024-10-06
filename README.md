@@ -10,7 +10,7 @@ This project demonstrates a responsive pricing table layout built using HTML and
 
 
 ## Demo
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://shafayat666.github.io/flexbox-pricing-table/).
 
 ![Pricing Table Preview](pricing-table-preview.png)
 
